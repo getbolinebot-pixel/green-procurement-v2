@@ -1,0 +1,28 @@
+{
+  "siteTitle": "一頁式綠色採購管理網站",
+  "siteSubtitle": "整合制度、數據與 AI 輔助決策，提升綠色採購透明度、執行效率與稽核可追溯性。",
+  "heroBadge": "制度整合・對上說明・KPI 儀表板・持續優化",
+  "sectionCoreTitle": "核心重點",
+  "managerSummary": "本平台將原本分散的制度、附件與台帳，轉為可視化管理工具，協助管理層快速掌握綠色採購結構、執行狀況與後續優化方向。",
+  "ownerName": "GADM-BO 曉君",
+  "ownerRole": "綠色採購制度推動 / 內部宣導窗口",
+  "ownerIntro": "負責整合辦法草案、附件表單、教育訓練與申報數據，讓制度從文件管理升級為管理決策工具。",
+  "aiToolName": "AI 採購建議工具",
+  "aiToolUrl": "#",
+  "googleSheetApiUrl": "https://opensheet.elk.sh/1e7FELtxhGBKPZ4RJxgcG_KbV_qGTxKs_/Sheet1",
+  "attachmentLinks": {
+    "A": "https://docs.google.com/document/d/1ZWHDjt1NVHfLTCcNDYf7stbJu-cNVAq8/edit",
+    "B": "https://docs.google.com/document/d/1ZWHDjt1NVHfLTCcNDYf7stbJu-cNVAq8/edit",
+    "C": "https://docs.google.com/spreadsheets/d/1e7FELtxhGBKPZ4RJxgcG_KbV_qGTxKs_/edit",
+    "D": "https://docs.google.com/document/d/1k7UatbaDjJi0k4j9CT2xeZ9-OKocj2ph/edit"
+  },
+  "trafficLightRule": {
+    "exclude_categories": [
+      "高鐵交通",
+      "高鐵"
+    ],
+    "red_below": 100000,
+    "yellow_below": 250000,
+    "annual_target": 400000
+  }
+}
